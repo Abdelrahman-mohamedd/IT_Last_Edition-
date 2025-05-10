@@ -1,0 +1,19 @@
+.search-bar {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #d1d5db; 
+    border-radius: 6px; 
+  }
+
+ .sea{
+    margin: 50px auto;
+    text-align: center;
+ }
+  
+ 
+  @media (min-width: 768px) {
+    .search-bar {
+      width: 50%;
+    }
+  }
+  

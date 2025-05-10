@@ -1,0 +1,42 @@
+.page {
+  background-color: #d8d0d0;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+  margin: 15px;
+  max-height: 500px;
+  border-radius: 10px;
+}
+
+
+.tex{
+text-align: center;
+font-size: xx-large;
+font-weight: bolder;
+color: black;
+position: relative;
+top: 170px;
+left: 20px;
+}
+
+.whatsapp-button {
+background-color: #25D366;
+color: white;
+padding: 15px 30px;
+font-size: 20px;
+border: none;
+border-radius: 10px;
+text-decoration: none;
+transition: 0.3s;
+line-height: 25;
+position: relative;
+left:43%;
+right: 47%;
+}
+.whatsapp-button:hover {
+background-color: #1ebe5b;
+}
+.word{
+  font-size:22px;
+  font-weight: bolder;
+  color: white;
+}
